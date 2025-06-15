@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "Hgamo2008.aternos.me:35185",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.21.5"
   },
 
   "position": {
